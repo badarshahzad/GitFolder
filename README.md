@@ -17,7 +17,7 @@ _above is just bold text_
 
 Above mention is just italic
 
->This is quote branch is just create with ">"write just in it  and you will see the qouted text 
+>This is quote branch is just create with " > "write just in it  and you will see the qouted text 
 
 ```
 int these open and close brace your code init 
