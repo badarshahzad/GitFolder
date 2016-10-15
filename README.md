@@ -4,23 +4,22 @@ This folder is testing folder. In this folder the changes that I did is
 just for learning phase of git and github.
 
 
-#In this README you can learn the README.md stuff.
-#This is header
-#4 
-#3 
-#2 
-then 
+In this README you can learn the README.md stuff.
+This is header
+#Header
+	This is the header that you can added headers in your readme file. 
 #1 
 
-**These above mention are just links.**
-_above is just bold text_
+**This is just bold text that can be added with just `*text*`.**
 
-Above mention is just italic
+_This is italic text with thsi keyword `_` round the text just add this and check_
 
->This is quote branch is just create with " > "write just in it  and you will see the qouted text 
+>This is quote keyword `>` just write after that keyword you see the qouted text 
 
 ```
-int these open and close brace your code init 
+int these open and close brace your code init start "```"and 
+code between these two 
+ "```"
 `< this is sudo code what ever want write init>`
 ```
 [This is add link you can add link of any thing.](https://github.com/badarshahzad/GitFolder)
