@@ -9,6 +9,10 @@ This is header
 #Header
 	This is the header that you can added headers in your readme file. 
 #1 
+![Image text :Good: Alt text](/GitFolder/image1.jpg?raw=true "Optional Title")
+
+
+[Beware this is just testing](This is image)
 
 **This is just bold text that can be added with just `*text*`.**
 
