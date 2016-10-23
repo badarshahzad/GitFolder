@@ -9,7 +9,7 @@ This is header
 #Header
 	This is the header that you can added headers in your readme file. 
 #1 
-![Image text :Good: Alt text](../GitFolder/image1.jpg?raw=true "Optional Title")
+![Image text :Good: Alt text](https://github.com/badarshahzad/GitFolder/blob/master/image1.jpg "Optional Title")
 
 
 **This is just bold text that can be added with just `*text*`.**
