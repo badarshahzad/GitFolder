@@ -1,5 +1,6 @@
 
 # GitFolder
+
 This folder is testing folder. In this folder the changes that I did is 
 just for learning phase of git and github.
 
@@ -11,6 +12,7 @@ This is header
 #1 
 ![Image text :Good: Alt text](https://github.com/badarshahzad/GitFolder/blob/master/image1.jpg "Optional Title")
 
+##Image is also a good part to view your software to viewrs :) 
 
 **This is just bold text that can be added with just `*text*`.**
 
